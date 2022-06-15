@@ -1,0 +1,14 @@
+*{
+    margin: 13px;
+    padding: 13px;
+    box-sizing: border-box;
+    color: aliceblue;
+}
+
+body{
+    background: url(/assests/images/spoon2.png);
+    background: rgba(20, 15, 15, 0.79);
+}
+.container.buttona{
+   color: white;
+}
